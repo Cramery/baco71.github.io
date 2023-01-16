@@ -452,28 +452,6 @@ figure.effect-ming:hover img { opacity: 0.4; }
 .tm-footer-title { font-size: 1.4rem; }
 
 /* Videos */
-#tm-video-container {
-    max-height: 400px;
-    overflow: hidden;
-    background-color: #333;
-    margin-bottom: 90px;
-    position: relative;
-}
-
-#tm-video {
-    display: block;
-    width: 100%;
-    height: auto;
-}
-
-#tm-video-control-button {
-    position: absolute;
-    bottom: 20px;
-    right: 20px;
-    z-index: 1000;
-    color: #e1e1e1;
-}
-
 .tm-video-details {
     height: 100%;
     padding: 40px;
@@ -539,29 +517,7 @@ select:not([multiple]) {
 }
 
 .tm-contacts li a i { width: 30px; }
-.tm-social { display: flex; }
 
-.tm-social li {
-    list-style: none;
-    margin-bottom: 20px;
-    margin-right: 15px;
-}
-
-.tm-social li a i {
-    width: 40px;
-    height: 40px;
-    color: #666666;
-    background-color: #EEEEEE;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: all 0.3s ease;
-}
-
-.tm-social li a:hover i {
-    color: #fff;
-    background-color: #009999;
-}
 
 .form-control,
 input:-internal-autofill-selected,
@@ -574,55 +530,3 @@ select:not([multiple]) {
     opacity: 1; /* Firefox */
 }
 
-@media (max-width: 991px) {
-    .navbar-collapse {
-        position: fixed;
-        top: 50px;
-        right: 0px;
-        background: white;
-        width: 150px;
-        padding: 15px;
-    }
-
-    .tm-container-content { max-width: 870px; }
-    .tm-contact-form, .tm-address-col, .mapouter { max-width: 100%; }
-    .tm-people-row { max-width: 900px; }
-}
-
-@media (max-width: 767px) {
-    .tm-paging-col { flex-direction: column; }
-    .tm-paging { flex-wrap: wrap; }
-    .tm-about-img-text { max-width: 640px; }
-    .tm-about-2-col, .tm-about-3-col { margin-bottom: 50px; }
-}
-
-@media (max-width: 575px) {
-    .tm-container-content { max-width: 420px; }
-
-    .tm-search-form {
-        padding-left: 15px;
-        padding-right: 15px;
-        width: 100%;
-        justify-content: center;
-    }
-
-    .tm-search-input {
-        width: 100%;
-        max-width: 360px;
-    }
-
-    .tm-people-row { max-width: 420px; }
-}
-
-@media (max-width: 400px) {
-    .tm-btn-big { padding: 12px 50px 14px; }
-}
-
-@media (max-width: 334px) {
-    .tm-social-links {
-        flex-wrap: wrap;
-        justify-content: start !important;
-    }
-
-    .tm-social-links li { margin-right: 3px; }
-}
