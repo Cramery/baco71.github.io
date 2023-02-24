@@ -214,9 +214,9 @@ a.tm-text-primary:hover { color:#666666; }
 .nav-item:last-child { margin-right: 0; }
 
 .nav-link {
-    color: #666666;
+    color: #303030;
     border-bottom: 4px solid transparent;
-    font-size: 1.2rem;
+    font-size: 1.6rem;
 }
 
 .nav-link-1.active,
@@ -507,8 +507,8 @@ select:not([multiple]) {
     width:100%;
 }
 
-.tm-contact-form { max-width: 420px; }
-.tm-address-col { max-width: 520px; }
+.tm-contact-form { max-width: 420px; text-align:center;}
+.tm-address-col { max-width: 520px; text-align:center;}
 .tm-contacts { padding-left: 0; }
 
 .tm-contacts li {
