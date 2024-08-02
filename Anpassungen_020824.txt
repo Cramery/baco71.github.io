@@ -9,11 +9,16 @@ Lederportmonai Detailseite ✓
 Weitere Schenke und Dekoartikel Detailseite ✓
 Pokale / Trophäen Detailseite ✓
 Individuelle Anfragen Bilder Hinzufügen ✓
-Bilder zurechtschneiden
-Bilder grösse anpassen
-leder-Portemonnaie
+Bilder zurechtschneiden ✓
+Bilder grösse anpassen ✓
+leder-Portemonnaie ✓
+Uhr 3 Hinzufügen ✓
 
-Restliche Verlinkungen unten auf Seiten
-Verlinkungen unten auf andere Seiten - Werbeartikel nur auf andere Werbeartikel
-Verlinkungen unten auf andere Seiten - Weihnachten nur auf andere Weihnachten
-Verlinkungen unten auf andere Seiten - Geschenke und Deko nur auf andere Geschenke und Deko
+Restliche Verlinkungen unten auf Seiten ✓
+Verlinkungen unten auf andere Seiten - Werbeartikel nur auf andere Werbeartikel ✓
+Verlinkungen unten auf andere Seiten - Weihnachten nur auf andere Weihnachten ✓
+Verlinkungen unten auf andere Seiten - Geschenke und Deko nur auf andere Geschenke und Deko ✓
+
+Preise hinzufügen
+
+Beim Preis den Zusatzsatz rausnahmen, bei dem was es nicht braucht. 
